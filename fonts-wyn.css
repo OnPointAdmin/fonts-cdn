@@ -115,9 +115,9 @@
 }
 
 @font-face {
- font-family: 'Ivy Presto Headline';
- src: url('https://cdn.jsdelivr.net/gh/OnPointAdmin/fonts-cdn@latest/fonts/IvyPrestoHeadline-SemiBold.woff2') format('woff2');
- font-weight: normal;
- font-style: normal;
- font-display: swap;
+  font-family: 'Ivy Presto Headline';
+  src: url('https://cdn.jsdelivr.net/gh/OnPointAdmin/fonts-cdn/fonts/IvyPrestoHeadline-SemiBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
